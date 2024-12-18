@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/employee-form/static/css/main.1cf8980e.css",
+    "main.js": "/employee-form/static/js/main.8964e1ec.js",
+    "static/js/488.24fa0ccd.chunk.js": "/employee-form/static/js/488.24fa0ccd.chunk.js",
+    "index.html": "/employee-form/index.html",
+    "main.1cf8980e.css.map": "/employee-form/static/css/main.1cf8980e.css.map",
+    "main.8964e1ec.js.map": "/employee-form/static/js/main.8964e1ec.js.map",
+    "488.24fa0ccd.chunk.js.map": "/employee-form/static/js/488.24fa0ccd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cf8980e.css",
+    "static/js/main.8964e1ec.js"
+  ]
+}
